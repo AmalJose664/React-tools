@@ -1,0 +1,173 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Diana Prince"
+    },
+    {
+      "id": 4,
+      "name": "Flash",
+      "alterEgo": "Barry Allen"
+    },
+    {
+      "id": 5,
+      "name": "Green Lantern",
+      "alterEgo": "Hal Jordan"
+    },
+    {
+      "id": 6,
+      "name": "Aquaman",
+      "alterEgo": "Arthur Curry"
+    },
+    {
+      "id": 7,
+      "name": "Cyborg",
+      "alterEgo": "Victor Stone"
+    },
+    {
+      "id": 8,
+      "name": "Martian Manhunter",
+      "alterEgo": "J'onn J'onzz"
+    },
+    {
+      "id": 9,
+      "name": "Green Arrow",
+      "alterEgo": "Oliver Queen"
+    },
+    {
+      "id": 10,
+      "name": "Black Canary",
+      "alterEgo": "Dinah Lance"
+    },
+    {
+      "id": 11,
+      "name": "Shazam",
+      "alterEgo": "Billy Batson"
+    },
+    {
+      "id": 12,
+      "name": "Hawkgirl",
+      "alterEgo": "Shayera Hol"
+    },
+    {
+      "id": 13,
+      "name": "Hawkman",
+      "alterEgo": "Carter Hall"
+    },
+    {
+      "id": 14,
+      "name": "Zatanna",
+      "alterEgo": "Zatanna Zatara"
+    },
+    {
+      "id": 15,
+      "name": "Doctor Fate",
+      "alterEgo": "Kent Nelson"
+    },
+    {
+      "id": 16,
+      "name": "Blue Beetle",
+      "alterEgo": "Jaime Reyes"
+    },
+    {
+      "id": 17,
+      "name": "Booster Gold",
+      "alterEgo": "Michael Carter"
+    },
+    {
+      "id": 18,
+      "name": "Plastic Man",
+      "alterEgo": "Patrick O'Brian"
+    },
+    {
+      "id": 19,
+      "name": "Constantine",
+      "alterEgo": "John Constantine"
+    },
+    {
+      "id": 20,
+      "name": "Swamp Thing",
+      "alterEgo": "Alec Holland"
+    },
+    {
+      "name": "Captain America ",
+      "alterEgo": "Steve Rogers",
+      "id": 21
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "vishwas@example.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
